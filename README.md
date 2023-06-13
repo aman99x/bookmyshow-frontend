@@ -4,7 +4,7 @@ The **bookmyshow** website is an online platform where users can book movie tick
 
 ## Website Preview
 
-You can preview the website by visiting the following link: [bookmyshow Website](https://storied-tanuki-5526d1.netlify.app/)
+You can preview the website by visiting the following link: bookmyshow-frontend Website -https://rad-custard-cc9a47.netlify.app/
 
 
 ## About the Website
